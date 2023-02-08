@@ -1,4 +1,15 @@
-h {
+h1 {
   text-align: center;
-  colour: #15e884;
+  color: #15e884;
+  font-family: sans-serif;
+}
+
+p {
+  text-align: center;
+  color: ##172028;
+  font-family: sans-serif;
+}
+
+#dispnon {
+  display: none
 }
