@@ -1,1 +1,1 @@
-location.href = 'rd.html';
+location.href = 'rd2.html';
